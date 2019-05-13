@@ -1,0 +1,6 @@
+2019-04-26T08:36:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\wordresse\wp-includes\Requests\Transport\cURL.php on line 462
+
+2019-04-26T08:38:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\wordresse\wp-includes\Requests\Transport\cURL.php on line 462
+
+2019-04-26T08:41:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\wordresse\wp-includes\Requests\Transport\cURL.php on line 462
+
